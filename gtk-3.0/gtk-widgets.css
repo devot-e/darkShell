@@ -1,0 +1,4 @@
+/* give active tab a background, as it might be dragged across of others when reordering */
+.notebook tab:active {
+    background-color: #770e0e;
+}
